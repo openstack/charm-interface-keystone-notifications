@@ -1,0 +1,6 @@
+name: keystone-notifications
+summary: |
+  Interface for integrating with Keystone notifications interface
+  Charms use this relation to know when an endpoint changed.
+
+maintainer: Felipe Reyes <felipe.reyes@canonical.com>
